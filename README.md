@@ -1,7 +1,7 @@
 ## 🌸Hi there, I’m Gunjali Rewatkar!👋
 
 <--
-🎓 Student | 📊 Data Analytics Enthusiast | 💻 Learning Power BI, Excel & Python
+🎓 Student | 📊 Data Analytics Enthusiast | 💻 Learning Excel, Power BI, Python & SQL
 
 ---
 
